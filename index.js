@@ -14,14 +14,12 @@ function divide(a, b) {
   return a / b
 }
 
-function inc(n) {
-  var n = 159;
-  return n += 337
+function inc(a) {
+  return a ++
 }
 
-function dec(n) {
-  var n = 908;
-  return n -= 383
+function dec(a) {
+  return n --
 }
 
 
