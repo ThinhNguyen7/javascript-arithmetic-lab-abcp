@@ -15,10 +15,12 @@ function divide(a, b) {
 }
 
 function inc(n) {
+  var n = 159;
   return n ++
 }
 
 function dec(n) {
+  var n = 908;
   return n --
 }
 
